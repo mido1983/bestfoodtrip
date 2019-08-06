@@ -1,0 +1,159 @@
+# Copyright (C) 2019 JNews Food Recipe
+# This file is distributed under the same license as the JNews Food Recipe package.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews Food Recipe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;jnews_print_translation;jnews_return_translation\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:175
+msgid "Ingredients"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:199
+msgid "Instructions"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:256
+msgid "Serves:"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:269
+msgid "Cook time: %s minutes"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:281
+msgid "Level:"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/class.jnews-food-recipe.php:313
+msgid "Print Recipe"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:14
+msgid "Food Recipe Setting"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:20
+msgid "Enable Food Recipe"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:21
+msgid "Check this option to enable food recipe on this post."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:27
+msgid "Food Recipe Title"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:28
+msgid "Insert title of this food recipe."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:41
+msgid "Food Recipe Description"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:42
+msgid "Insert description of this food recipe. Please note, this value will be used for Google Schema and not show up on frontpage."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:55
+msgid "Serving Size"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:56
+msgid "Serving size of this food recipe. Ex : 5 People, 3 Bowls"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:69
+msgid "Cooking Time"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:70
+msgid "Cooking time of this food recipe in minute."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:84
+msgid "Prepare Time"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:85
+msgid "Preparing time of this food recipe in minute. Please note, this value will be used for Google Schema and not show up on frontpage."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:99
+msgid "Cooking Level"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:100
+msgid "Cooking level of this food recipe."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:113
+msgid "Food Recipe Keywords"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:114
+msgid "Insert some keywords for this food recipe. Please note, this value will be used for Google Schema and not show up on frontpage."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:127
+msgid "Food Recipe Category"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:128
+msgid "Insert category for this food recipe. Please note, this value will be used for Google Schema and not show up on frontpage."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:141
+msgid "Food Recipe Cuisine"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:142
+msgid "Insert recipe cuisine for this food recipe. Please note, this value will be used for Google Schema and not show up on frontpage."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:155
+msgid "Enable Print Recipe"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:156
+msgid "Check this option to enable print food recipe."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:171
+msgid "Food Recipe Ingredients"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:179
+msgid "Ingredient of Food Recipe"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:184
+msgid "Ingredient Item"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:185
+msgid "Insert ingredient item."
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:196
+msgid "Food Recipe Instructions"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:202
+msgid "Food Recipe Instruction"
+msgstr ""
+
+#: wordpress/jnews-food-recipe/metabox/post-food-recipe-setting.php:203
+msgid "Insert the instruction of food recipe."
+msgstr ""
